@@ -1,0 +1,154 @@
+body{
+    
+}
+
+header{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    border-bottom: #E5E5E5 solid 2px;
+    height: 70px;
+    
+    
+}
+
+.fondo1{
+    background-image: url(../assets/img/backgoundcolours.png);
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+    background-attachment: fixed;
+    height: 1000px;
+    
+}
+
+.corazon{
+    display: flex;
+    background-color: #FFFFFF;
+    margin-left: 350px;
+}
+
+.text1{
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    margin-left: -1000px;
+    font-family: 'Poppins';
+    color: #000;
+    font-size: 30px;
+}
+
+.navega{
+    display: flex;
+    flex-wrap: wrap;
+    color: #000;
+    margin-right: 150px;  
+    gap: 30px;
+    
+}
+
+a{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    display:inline;
+    color: #000;
+    font-family: 'Poppins';
+    text-decoration: none;
+    font-size: 30px;
+}
+
+#menu{
+    background-color: #FFFFFF;
+}
+
+.fotoA{
+    position: relative;
+    width: 90PX;
+    margin-left: 350PX;
+    margin-bottom: -50PX;
+}
+
+.div1{
+    display: inline;
+    flex-wrap: wrap;
+    position: relative;
+    font-size: 30PX;
+    margin-left: 1000PX;    
+}
+.fondo1 div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.container1{
+font-family: Poppins, sans-serif;
+justify-content: center;
+align-items: center;
+width: 600px;
+color: #FFFFFF;
+font-size: 80px;
+font-weight:bold;
+padding: 100px;
+text-align: center;  
+}
+
+p.container2{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'Arimo', sans-serif;
+    color: #FFFFFF;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    width: 650px;
+    padding-left: 80px; 
+    }
+
+.container3{
+    font-family: Poppins, sans-serif;
+    color: #FFFFFF;
+    font-size: 50px;
+    width: 600px;
+    text-align: center;
+    font-weight:bold;
+    }
+
+.container4{
+    font-family: 'Arimo', sans-serif;
+    color: #FFFFFF;
+    font-size: 20px;
+    text-align: center;
+    width: 700px;
+
+    }
+.fondo2{
+    background-color: #FFFFFF;
+    position: relative; 
+    margin-left: 1000px;
+    padding-top: 300px;
+    height: 800px;
+    width: 100px;
+
+}
+
+.container5{
+    font-family: 'Arimo', sans-serif;
+    color: #FFFFFF;
+    font-size: 20px;
+    text-align: center;
+    width: 700px;
+
+    }
+
+.container6{
+        font-family: 'Arimo', sans-serif;
+        color: #FFFFFF;
+        font-size: 20px;
+        text-align: center;
+        width: 700px;
+    
+        }
